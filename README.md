@@ -9,8 +9,8 @@ My name is Moncho, I'm from Spain and I'm a CTO.
 * I like to help in Tech Groups as [JS Ourense](https://ourense.javascript.gal/) and [GDG OU](https://twitter.com/gdgourense). 
 * I enjoy reading and writing.
 * I ♥ Popular Culture: Cinema, Comics, Manga, TV Series, Videogames, Music, …
-* I try to play well to Chess ♕
-* My favorite dish is [fair-style octopus](https://en.wikipedia.org/wiki/Polbo_%C3%A1_feira) 🐙 🕺
+* I try to play well to Chess ♕.
+* My favorite dish is [fair-style octopus](https://en.wikipedia.org/wiki/Polbo_%C3%A1_feira) 🐙 🕺. s
 
 ## Skills
 
