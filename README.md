@@ -2,7 +2,7 @@
 
 My name is Moncho, I'm from Spain and I'm a CTO.
 
-* Currently working for [rebellion](https://rebellionpay.com) as a CTO.
+* Currently working for [Marosa](https://marosavat.com) as a CTO.
 * My work is my main hobby.
 * FLOSS fan.
 * Arduino enthusiast.
